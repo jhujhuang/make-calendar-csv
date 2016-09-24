@@ -3,7 +3,7 @@ import datetime
 
 header = 'Subject,Start Date,Start Time,End Date,End Time,All Day Event,Reminder On/Off,Reminder Date,Reminder Time,Meeting Organizer,Description,Location,Private'
 # Schedule html following certain format assumptions
-sourcehtml = 'example.html'
+sourcehtml = 'third_party/example.html'
 EVENT = 'READEVENT'
 DAY = 'READDAY'
 PREFIX = 'style="font-size: 1.25em;">'
